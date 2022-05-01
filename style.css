@@ -35,11 +35,7 @@
     color: white;
     font-size: 25px;
 }
-img{
-    border-radius: 50%;
-    width: 80px;
-    position: relative; right: 10px; top: 20px;
-}
+
 .leftbox
 {
     float:left;
